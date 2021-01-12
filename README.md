@@ -22,7 +22,7 @@
   </h3>
 </div>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5e0ce409-7faf-4970-bdbb-17aa8654aa3a/deploy-status)](https://app.netlify.com/sites/recipe-page-victor/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/df23b195-b0b4-4983-93ed-f04a5841d038/deploy-status)](https://app.netlify.com/sites/recipe-page-victor/deploys)
 
 <!-- TABLE OF CONTENTS -->
 
