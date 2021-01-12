@@ -45,8 +45,6 @@
 
 - HTML
 - CSS
-- Node.js
-- Express
 
 ## Features
 
@@ -58,24 +56,16 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## How To Use
 
-o clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com). From your command line:
 
 ```bash
 # Clone this repository
 $ git clone https://github.com/viictorcamposs/recipe-page-devchallengesio
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
 ```
 
-You can run the project with NPM or just open with Live Server. If you run the server with NPM, open port localhost:5000 in your browser.
+You can run the project with Live Server.
 
 ## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [Node.js](https://nodejs.org/)
